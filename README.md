@@ -28,7 +28,7 @@
 - Automatic Item Shops
 - Vbucks on kill/win
 
-**Setup Guide: [Click Here](https://github.com/itztiva/Astral/blob/main/SETUP.md)**
+**Setup Guide: [Click Here](https://github.com/rxngx/Lunar-Backend/blob/main/SETUP.md)**
 
 ## To Do:
 
