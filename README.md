@@ -1,6 +1,6 @@
 # Lunar
 
-**Universal Fortnite Backend written in Elixir using Postgresql**
+**Was an very old project, written in Elixir using MongoDb**
 
 <a href="https://elixir-lang.org" target="_blank">
   <img src="https://img.shields.io/badge/written%20in-elixir-ac98ff.svg?style=for-the-badge&logo=elixir" alt="Powered by Elixir" />
@@ -14,7 +14,7 @@
 - Locker Support
 - Item Shop
 - Refunding
-- Discord Bot
+- Discord Bot (Broken)
 - Discovery Tab
 - Challenges
 - Locations & Landmarks
@@ -23,9 +23,9 @@
 - WinterFeast
 - Season lightswitch
 - Friends
-- Gifting
+- Gifting (Broken IDK)
 - Battle Pass
-- Automatic Item Shops
+- Automatic Item Shops (Broken)
 - Vbucks on kill/win
 
 **Setup Guide: [Click Here](https://github.com/rxngx/Lunar-Backend/blob/main/SETUP.md)**
@@ -34,3 +34,6 @@
 
 - [ ] Eos
 - [ ] IP Bans
+
+## Full Credits to
+Andrew for using Astral Backend: https://github.com/andr1ww/Astral
