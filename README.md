@@ -37,3 +37,7 @@
 
 ## Full Credits to
 Andrew for using Astral Backend: https://github.com/andr1ww/Astral
+
+## Info
+
+- Some file might be written in french
